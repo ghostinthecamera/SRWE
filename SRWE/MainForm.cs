@@ -973,5 +973,9 @@ namespace SRWE
 			UpdateWindowFromMegapixels();
 		}
 
+        private void EDT_WINRC_ASPRAT_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
